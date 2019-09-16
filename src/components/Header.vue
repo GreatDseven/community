@@ -55,7 +55,7 @@ export default {
   name: "tou",
   data() {
     return {
-      val: "969bace2-ba1c-40e5-bfe3-750148f06844",
+      val: "e2f29a55-0e85-46e0-92b6-6fc49ba09596",
       userInfo: null,
       messageNum: 0
     };

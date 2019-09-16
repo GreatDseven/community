@@ -1,2 +1,2 @@
-const PUBLICURL = "/vue-shequ";
+const PUBLICURL = "/community";
 export default PUBLICURL;
